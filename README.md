@@ -1,9 +1,21 @@
 # HTML5_CSS3
 
 ## Elementos tipo BLOCK
-- 
-- 
-
 ```html
-<div>
+- <address>
+- <article>
+- <aside>
+- <audio>
+- <>
+- <>
+- <>
+- <>
+- <>
+- <>
+- <>
+- <>
+- <>
+- <>
+- <>
+- <>
 ```
